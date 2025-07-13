@@ -3,15 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+✨ Creating bugs since 2023 when I wrote my first "Hello World!"
 
-- 👨‍💻 All of my projects are available at [https://github.com/Prasant2203](https://github.com/Prasant2203)
+📚 I'm currently learning Web Development
 
-- 📫 How to reach me **prasantsingh2203@gmail.com**
+🎯 Goals: To become a skilled developer and contribute to real world projects
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VfL9ChNkS3e6VxsCAKyxjjnwvbvFgiiT/view?usp=sharing](https://drive.google.com/file/d/1VfL9ChNkS3e6VxsCAKyxjjnwvbvFgiiT/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am funny**
+🎲 Fun fact: I debug my code better after a cup of coffee
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
